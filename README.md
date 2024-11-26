@@ -41,9 +41,9 @@ Implement your own authentication logic inside the _loginUser, _recoverPassword,
 Customize the UI and functionalities as needed.
 
 ## Contributing
-Contributions are welcome! Please create an issue or a pull request.
+Contributions are welcome. Please create an issue or a pull request.
 
 ## Acknowledgements
 flutter_login package for providing the login UI.
 
-Happy coding! 🚀
+Happy coding🚀
